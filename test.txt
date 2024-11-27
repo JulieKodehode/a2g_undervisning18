@@ -1,0 +1,24 @@
+const  = document.querySelector("#");
+console.log();
+
+const  = document.querySelector("#");
+console.log();
+
+function () {
+    console.log("");
+    
+    const  = .value;
+    console.log();
+
+    const  = document.querySelector("#");
+    console.log();
+
+    const  = document.createElement("");
+    console.log();
+
+    .textContent = ;
+
+    .appendChild();
+};
+
+.addEventListener("click", );
